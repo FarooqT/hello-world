@@ -1,12 +1,8 @@
-<h1> Hello, Welcome to Jenkins!!  -- Adding modificaiton -- </h1>
-<br> New deployment using docker image and Ansible
+<h1> DevOps Assignment 4  -- Adding modificaiton -- </h1>
 
-<br> Another modification 
-<br> <font color = "red"><b>After deploying it using CI/ CD</b></font>
+<br> <font color = "red"><b>Deploying this task using jenkins CI/CD</b></font>
 
-<br> <font color = "red"> Another modification </font> 
-<br> <font color = "red"> Third modification </font> 
+<br> <font color = "blue"> Using Jenkins, Maven, Github, Ansible, Docker, and AWS in this task </font>
 
-<br> New line for TODAY
 
 
