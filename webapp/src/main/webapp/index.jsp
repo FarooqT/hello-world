@@ -14,7 +14,9 @@
 
 <br> <font color = "red"><b>Deploying this task using jenkins CI/CD</b></font>
 
-<br> <font color = "red"><b>test CI/CD</b></font>
+<br> <font color = "blue"><b>test CI/CD</b></font>
+
+<br> <font color = "blue"><b>Adding demo modification</b></font>
 
 <br> <font color = "blue"> Using Jenkins for CI/CD, Maven for build tool, Github for the repository, Ansible to deploy Docker images on 2 AWS instances </font>
 </body>
