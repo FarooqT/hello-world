@@ -16,6 +16,6 @@
 
 <br> <font color = "red"><b>test CI/CD</b></font>
 
-<br> <font color = "blue"> Using Jenkins for CI/CD, Maven for build tool, Github for the repository, Ansible to deploy Docker images on 2 AWS instances with load balancer to dirstibue the incmoing requests  </font>
+<br> <font color = "blue"> Using Jenkins for CI/CD, Maven for build tool, Github for the repository, Ansible to deploy Docker images on 2 AWS instances </font>
 </body>
 </html>
