@@ -4,7 +4,7 @@
 %>
 <html>
 <head>
-<title>Server host name in jsp</title>
+<title>Devops task 4</title>
 </head>
 
 <body>
